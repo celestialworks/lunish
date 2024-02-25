@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106.02 89.25">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <g id="Layer_1-2" data-name="Layer 1">
-    <g>
-      <path class="cls-1" d="m106.02,50.97c.42,43.92-106.45,43.92-106.02,0-.42-43.92,106.45-43.91,106.02,0Z"/>
-      <polygon class="cls-1" points="27.15 78.74 17.02 89.25 19.3 72.64 27.15 78.74"/>
-      <polygon class="cls-1" points="23.99 0 17.99 26.45 39.48 19.66 23.99 0"/>
-      <polygon class="cls-1" points="83.85 .75 67.57 19.41 88.76 27.54 83.85 .75"/>
-    </g>
-  </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="137.000000pt" height="130.000000pt" viewBox="0 0 137.000000 130.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,130.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M396 1060 c-152 -144 -189 -385 -88 -574 37 -70 135 -165 206 -199
+91 -45 193 -62 280 -48 93 15 203 68 267 127 61 58 91 106 32 53 -76 -69 -190
+-109 -307 -109 -220 1 -428 186 -454 404 -17 133 21 272 98 359 46 53 28 46
+-34 -13z"/>
+</g>
 </svg>
