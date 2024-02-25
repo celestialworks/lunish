@@ -172,11 +172,11 @@ a:active {
 }
 
 #default {
-    background: linear-gradient(#0000000c, #0000000c), url("https://neko.community/images/aynzbaykat.jpg");
+    background: linear-gradient(#0000000c, #0000000c), url("");
 }
 
 #anime {
-    background: linear-gradient(#0000000c, #0000000c), url("https://neko.community/images/aynzbaykat.jpg");
+    background: linear-gradient(#0000000c, #0000000c), url("");
 }
 
 .parent {
